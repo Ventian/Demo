@@ -1,0 +1,26 @@
+.text {
+  font-family: "Roboto", sans-serif;
+}
+.lyrics {
+  background-color: #cacaca;
+}
+
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXexvqKKz_BJ4waZNY1H6WAwOGUXcSBvnTDg&s);
+  font-family: "Roboto", sans-serif;
+}
+
+main {
+  background-color: #cacaca;
+  max-width: 25em;
+  margin: auto;
+  padding: 2em;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.album-image {
+  width: 100%;
+}
